@@ -27,6 +27,7 @@ clEnqueueCopyBuffer@36
 clEnqueueCopyBufferToImage@36
 clEnqueueCopyImage@36
 clEnqueueCopyImageToBuffer@36
+clEnqueueFillBuffer@36
 clEnqueueMapBuffer@44
 clEnqueueMapImage@52
 clEnqueueMarker@8
